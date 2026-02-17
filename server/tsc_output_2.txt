@@ -1,0 +1,1 @@
+src/controllers/carController.ts(125,53): error TS6133: 'req' is declared but its value is never read.
